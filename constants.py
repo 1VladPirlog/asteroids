@@ -10,8 +10,15 @@ PLAYER_RADIUS = 20
 PLAYER_TURN_SPEED = 300
 PLAYER_SPEED = 200
 
+
+PLAYER_SHOOT_SPEED = 500
+
+SHOT_RADIUS = 5
+
+
 # Asteroid Constants
 ASTEROID_MAX_RADIUS = 50
 ASTEROID_MIN_RADIUS = 10
 ASTEROID_KINDS = 3 # For different sizes/types of asteroids
 ASTEROID_SPAWN_RATE = 1.0 # Seconds between new asteroid spawns
+
